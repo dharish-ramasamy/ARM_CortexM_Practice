@@ -3,9 +3,8 @@
 This repository contains my hands-on practice and experiments with **ARM Cortex-M microcontrollers**, particularly STM32 devices.  
 It showcases my understanding of low-level microcontroller programming, peripheral interfacing, and embedded system fundamentals.
 
----
 
-## **Purpose**
+## 📌 **Purpose**
 The purpose of this repository is to:
 
 - Demonstrate practical knowledge of **Cortex-M architecture and bare-metal programming**  
@@ -13,9 +12,8 @@ The purpose of this repository is to:
 - Serve as a **learning portfolio** for embedded systems development  
 - Provide reference material for **assembly-level programming, memory management, and peripheral control**
 
----
 
-## **Topics Covered**
+## 📂 **Topics Covered**
 
 ### 1. ARM Cortex-M Architecture
 - CPU registers: R0-R12, SP, LR, PC  
@@ -46,19 +44,17 @@ The purpose of this repository is to:
 - Stack, heap, and context switching  
 - Handling faults: HardFault, BusFault, UsageFault  
 
----
 
-## **Tools Used**
-- **Keil µVision** – for Thumb-2 assembly exercises and bare-metal C projects  
-- **STM32CubeIDE** – for faster peripheral integration and optional HAL practice  
-- **ST-LINK / J-Link** – for flashing and debugging  
-- **OpenOCD / GCC Toolchain (optional)** – for advanced bare-metal experiments  
-- **Markdown / Docs** – for documenting memory maps, registers, and startup sequences
+## 🛠 **Platform Used**
+- **Keil µVision** 
+- **STM32CubeIDE**
 
----
 
-## **How to Use This Repository**
+## 🚀 **How to Use This Repository**
 - Explore **assembly practice exercises** for low-level instruction understanding  
 - Explore **bare-metal projects** for register-level peripheral control  
 - Refer to **Docs folder** for memory maps, register references, startup sequences, and notes  
-- Learn by combining ASM experiments with bare-metal C projects to understand MCU behavior thoroughly
+- Learn by combining ASM experiments with bare-metal C projects to understand MCU behavior thoroughly</br></br></br>
+
+> Maintained by **Dharish Ramasamy**</br>
+> Embedded Software Engineer
