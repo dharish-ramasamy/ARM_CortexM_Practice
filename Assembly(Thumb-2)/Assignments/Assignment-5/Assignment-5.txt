@@ -1,9 +1,0 @@
-1. Write to interface Potentiometer using ADC and print the raw values onto the console. Also implement the following:
-
-ADC raw value < 1000 then both LEDs are OFF
-
-1000 < ADC raw value < 2000 then only Yellow LED is ON
-
-2000 < ADC raw value < 3000 then only Red LED is ON
-
-ADC raw value > 3000 then both LEDs are ON
