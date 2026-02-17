@@ -4,7 +4,10 @@ The **INDUS IoT Development Kit** is an advanced embedded development platform d
 
 It is targeted for IoT experimentation, embedded firmware development, and rapid prototyping.
 
----
+
+## 📷 INDUS IoT Board
+
+![INDUS Board](images/indus_board.png)
 
 ## 🧠 Core Specifications
 
@@ -15,7 +18,6 @@ It is targeted for IoT experimentation, embedded firmware development, and rapid
 - 32 KB SRAM
 - 32 Kbit External EEPROM (SPI)
 
----
 
 ## 🔌 Communication Interfaces
 
@@ -27,7 +29,6 @@ It is targeted for IoT experimentation, embedded firmware development, and rapid
 - Wi-Fi (WLAN)
 - Bluetooth / BLE
 
----
 
 ## 📡 Analog & Signal Features
 
@@ -37,7 +38,6 @@ It is targeted for IoT experimentation, embedded firmware development, and rapid
 - Hardware Accelerators for Mathematical Functions
 - DSP Support
 
----
 
 ## 🧩 On-board Sensors & Actuators
 
@@ -52,15 +52,12 @@ It is targeted for IoT experimentation, embedded firmware development, and rapid
 - User LEDs
 - Push Buttons
 
----
 
 ## 🛠 Debug & Development Support
 
 - On-board USB-SWD Debugger
 - Compatible with STM32CubeIDE
 - Suitable for HAL and Register-Level Programming
-
----
 
 ## 🚀 Advantages of INDUS Board
 
@@ -70,9 +67,3 @@ It is targeted for IoT experimentation, embedded firmware development, and rapid
 - Built-in debugging support
 - Ideal for embedded systems learning and firmware development
 - Supports real-time DSP-based applications
-
----
-
-## 📷 INDUS IoT Board
-
-![INDUS Board](images/indus_board.png)
